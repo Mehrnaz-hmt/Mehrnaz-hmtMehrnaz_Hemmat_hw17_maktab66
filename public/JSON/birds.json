@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Amethyst sunbird",
+    "id": 1,
+    "status": true
+  },
+  {
+    "name": "Common woodshrike",
+    "id": 2,
+    "status": true
+  },
+  {
+    "name": "Macaroni penguin",
+    "id": 3,
+    "status": true
+  },
+  {
+    "name": "Marsh warbler",
+    "id": 4,
+    "status": true
+  },
+  {
+    "name": "Kori bustard",
+    "id": 5,
+    "status": true
+  },
+  {
+    "name": "Kamchatka leaf warbler",
+    "id": 6,
+    "status": true
+  },
+  {
+    "name": "Kolombangara leaf warblerr",
+    "id": 7,
+    "status": true
+  },
+  {
+    "name": "Large-billed reed warbler",
+    "id": 8,
+    "status": true
+  },
+  {
+    "name": "Long-wattled umbrellabird",
+    "id": 9,
+    "status": true
+  },
+  {
+    "name": "Hooded mountain tanager",
+    "id": 10,
+    "status": true
+  },
+  {
+    "name": "Hudson's black tyrant",
+    "id": 11,
+    "status": true
+  },
+  {
+    "name": "Fawn-breasted bowerbird",
+    "id": 12,
+    "status": true
+  },
+  {
+    "name": "Dark-backed imperial pigeon",
+    "id": 13,
+    "status": true
+  },
+  {
+    "name": "Upupa epops",
+    "id": 14,
+    "status": true
+  }
+]
