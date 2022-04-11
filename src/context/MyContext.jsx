@@ -1,7 +1,7 @@
-import {createContext, useContext} from 'react';
+import {createContext} from 'react';
 
 const myContext = createContext({
-    fetchData:[]
+
 })
 
 export default myContext;
