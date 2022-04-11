@@ -37,5 +37,6 @@ export default function AllItems() {
         </div>
       </div>
     </div>
-  );
+  ); 
+  // <></>
 }
